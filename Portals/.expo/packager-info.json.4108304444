@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://7q-54h.anonymous.blooddonation.exp.direct",
+  "packagerNgrokUrl": "https://7q-54h.anonymous.blooddonation.exp.direct",
+  "ngrokPid": 4236,
+  "expoServerPort": null,
+  "devToolsPort": 19002,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "webpackServerPort": null
+}

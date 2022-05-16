@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Sehat Markaz",
+    "slug": "simple-login-template",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/screens/asset/icon.png",
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ]
+    ],
+    "splash": {
+      "image": "./src/screens/asset/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/screens/asset/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/screens/asset/favicon.png"
+    }
+  }
+}
